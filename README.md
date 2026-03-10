@@ -7,13 +7,15 @@
 
 ## Home
 
-| Link | GitHub |
-| ---- | ------ |
-| [ubuntu-iso-builder-template](https://samwhelp.github.io/ubuntu-iso-builder-template/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-template) |
-| `+` | `+` |
-| [ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-attach-themes) |
-| `=` | `=` |
-| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://samwhelp.github.io/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
+> [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://samwhelp.github.io/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity/)
+
+| Project |
+| ------- |
+| [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
+| `+` |
+| [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-maccity) |
+| `=` |
+| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
 
 
 
